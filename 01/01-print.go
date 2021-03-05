@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+//格式化输入输出
+
 func main() {
 	fmt.Println("Hello, playground")
 	fmt.Println("Hello")
